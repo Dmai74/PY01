@@ -36,7 +36,8 @@ for i in range (m-n+1):
       c=c+1 
       print (i, ' x [',i,'] = ', x[i], ' y [',i,'] = ', y[i])
 
-
+# una modificación
+# otra modificación
 
 print ("==========================")
 print ("    Vamos a Graficar      ")
